@@ -22,6 +22,8 @@ Wafw00f Recon
 <img width="1027" height="777" alt="Whois networkwalks" src="https://github.com/user-attachments/assets/d00f08f5-31bf-49e1-af3d-8e10f92327de" />
 Whois Recon
 
+
+
 <img width="912" height="565" alt="Zenmap ping scan" src="https://github.com/user-attachments/assets/baa756d0-9099-427f-9a77-c2047988c68c" />
 Zenmap Ping scan
 
@@ -41,4 +43,9 @@ Harvesters Recon Microsoft
 
 
 
+
+[PENETRATION TESTING REPORT Omolewa Kehinde.docx](https://github.com/user-attachments/files/32681004/PENETRATION.TESTING.REPORT.Omolewa.Kehinde.docx)
+
+
+[W2-PM2 - Week2 - Project Module2 - Footp with GHDB v1 - TABLES to fill.docx](https://github.com/user-attachments/files/32681500/W2-PM2.-.Week2.-.Project.Module2.-.Footp.with.GHDB.v1.-.TABLES.to.fill.docx)
 
